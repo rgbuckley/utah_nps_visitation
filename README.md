@@ -11,4 +11,4 @@ For this project, I use the Prophet algorithm created by facebook. It is a bayes
 
 # About the Author
 
-I am a data scientist passionate about using data to seek Truth. I'm also local Utahn who loves exploring our world-class national parks! 
+I am a data scientist passionate about using data to seek Truth. I'm also a local Utahn who loves exploring our world-class national parks! 
