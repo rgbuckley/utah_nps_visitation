@@ -9,6 +9,6 @@ The source data for the project is from National Park Service. An example of the
 
 For this project, I use the Prophet algorithm created by facebook. It is a bayesian approach to time series forecasting that uses trend, seasonality, and holiday effects to predict future values. For more information, see the documentation [here](https://facebook.github.io/prophet/).
 
-#About the Author
+# About the Author
 
 I am a data scientist passionate about using data to seek Truth. I'm also local Utahn who loves exploring our world-class national parks! 
